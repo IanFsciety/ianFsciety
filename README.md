@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 💬 Ask me about **JavaScript , PHP**
+- 💬 Ask me about **JavaScript , React Native**
 
 - 📫 How to reach me **ianbiel850@gmail.com**
 
