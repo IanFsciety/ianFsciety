@@ -1,15 +1,30 @@
 <h1 align="center">Hi 👋, I'm Ian</h1>
-<h3 align="center">I'm a student of Full Stack , and I'm from Brazil</h3>
+<h3 align="center">I'm a Full-stack developer, and I'm from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=allansouzadk&label=Profile%20views&color=0e75b6&style=flat" alt="allansouzadk" /> </p>
-
-- 🌱 I’m currently learning **Node.js**
-
-- 💬 Ask me about **JavaScript , React Native**
-
-- 📫 How to reach me **ianbiel850@gmail.com**
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ianfsciety&show_icons=true&count_private=true&hide_border=true&title_color=5f02c2&icon_color=5f02c2&text_color=c9d1d9&bg_color=0d1117" alt="Ian Gabriel github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianfsciety&layout=compact&hide_border=true&title_color=5f02c2&text_color=c9d1d9&bg_color=0d1117" />
+</div>
+  
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+### Languages And Tools:
+
+
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![Typescript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+
+
+##
+
+<div>
+  
+  <a href = "mailto:ianbiel850@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ian-gabriel-727a14286/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
 
