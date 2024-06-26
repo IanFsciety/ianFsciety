@@ -1,23 +1,44 @@
-<h1 align="center">Hi 👋, I'm Ian</h1>
+<h1 align="center" style="color:red">Hi 👋, I'm Ian</h1>
 <h3 align="center">I'm a Full-stack developer, and I'm from Brazil</h3>
 
+
+
+ 
 <div align="center">  
-  <!-- GithubStats -->
-  ![IanFsciety GitHub stats](https://github-readme-stats.vercel.app/api?username=IanFsciety&show_icons=true&theme=dark)
+
+  ![IanFsciety GitHub stats](https://github-readme-stats.vercel.app/api?username=IanFsciety&show_icons=true&theme=gotham)
+  
+  
 </div>
+
+<div align="center">
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IanFsciety&show_icons=true&theme=gotham&langs_count=5)](https://github.com/IanFsciety/github-readme-stats)
+  
+</div>
+
   
 
 
 ### Languages And Tools:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IanFsciety&show_icons=true&theme=dark&langs_count=15)](https://github.com/IanFsciety/github-readme-stats)
+<div>
 
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![Typescript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
+  <img align="center" alt="reactrouter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactrouter/reactrouter-original.svg">
+  <img align="center" alt="Talwind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 
+  
+</div>
+
+  
 
 
 ##
