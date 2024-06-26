@@ -2,8 +2,7 @@
 <h3 align="center">I'm a Full-stack developer, and I'm from Brazil</h3>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ianfsciety&show_icons=true&count_private=true&hide_border=true&title_color=5f02c2&icon_color=5f02c2&text_color=c9d1d9&bg_color=0d1117" alt="Ian Gabriel github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianfsciety&layout=compact&hide_border=true&title_color=5f02c2&text_color=c9d1d9&bg_color=0d1117" />
+  ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=IanFsciety&show_icons=true&theme=gotham)
 </div>
   
 
