@@ -2,13 +2,14 @@
 <h3 align="center">I'm a Full-stack developer, and I'm from Brazil</h3>
 
 <div align="center">  
-  ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=IanFsciety&show_icons=true&theme=gotham)
+  <!-- GithubStats -->
+  ![IanFsciety GitHub stats](https://github-readme-stats.vercel.app/api?username=IanFsciety&show_icons=true&theme=dark)
 </div>
   
 
 
 ### Languages And Tools:
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IanFsciety&show_icons=true&theme=dark&langs_count=15)](https://github.com/IanFsciety/github-readme-stats)
 
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
