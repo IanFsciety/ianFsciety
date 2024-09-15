@@ -3,14 +3,6 @@
 
 
 
- 
-<div align="center">  
-
-  ![IanFsciety GitHub stats](https://github-readme-stats.vercel.app/api?username=IanFsciety&show_icons=true&theme=gotham)
-  
-  
-</div>
-
 <div align="center">
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IanFsciety&show_icons=true&theme=gotham&langs_count=6)](https://github.com/IanFsciety/github-readme-stats)
